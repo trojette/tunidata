@@ -23,7 +23,7 @@ Info 2, constituée de trois items :
 Ces items sont liés à la loi organique n° 2016-22 du 24 mars 2016,
 relative au droit d’accès à l’information, dont l'article 1er dispose que :
 
-> La présent loi a pour objet de garantir le droit de toute personne physique ou morale à l’accès à l’information afin de permettre :
+> La présente loi a pour objet de garantir le droit de toute personne physique ou morale à l’accès à l’information afin de permettre :
 > - l’obtention de l’information,
 > - le renforcement des principes de transparence et de reddition des comptes et surtout en ce qui concerne la gestion des services publics,
 > - l’amélioration de la qualité du service public et le renforcement de la confiance dans les organismes soumis aux dispositions de la présente loi,
