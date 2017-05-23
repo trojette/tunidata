@@ -53,7 +53,7 @@ Comme les années précédentes, les chercheurs ont trouvés des preuves que les
 
 La recommandation de la Web Foundation : Les gouvernements doivent investir dans l'utilisation de données ouvertes pour améliorer la vie des groupes marginalisés.
 
-Consulter les résultats sur le site officiel [http://opendatabarometer.org].
+Consulter les résultats sur le site officiel http://opendatabarometer.org.
 
 ![ODBarometer et Tunisie](pics/ODB-TN.png "L'OpenData en Tunisie")
 
@@ -70,6 +70,6 @@ Grosso-modo, théoriquement on a beaucoup de choses mais pratiquement sur terrai
 
 Donc pour finir, mes recommendations pour cette année :
 
- 1- Accélérer la mise en application de la nouvelle loi d'accès à l'information et de son instance.
- 2- Renforcer la communication entre le créateur et le consommateur de données à travers des campagnes de sensibilisation, formation, et développement de solutions.
- 3- Adopter et commencer à appliquer les principes de l'ODC
+ 1. Accélérer la mise en application de la nouvelle loi d'accès à l'information et de son instance.
+ 2. Renforcer la communication entre le créateur et le consommateur de données à travers des campagnes de sensibilisation, formation, et développement de solutions.
+ 3. Adopter et commencer à appliquer les principes de l'ODC
