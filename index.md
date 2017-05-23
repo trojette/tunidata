@@ -14,4 +14,4 @@ Vous pouvez accéder à nos archives en cliquant sur les liens ci-dessous :
 Contribuer à TuniData
 ===
 
-[![Contribuez à TuniData](https://trojette.github.io/tunidata/pics/github.jpg)](https://github.com/trojette/tunidata/)
+[![Contribuez à TuniData](https://trojette.github.io/tunidata/pics/github.jpg =290x115)](https://github.com/trojette/tunidata/)
